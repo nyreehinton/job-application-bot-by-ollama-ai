@@ -16,7 +16,18 @@
   </a>
 </p>
 
-Latest Update: December 30, 2025 (v3.2.0)
+Latest Update: February 15, 2026 (v3.2.3)
+- LinkedIn Profile Audit: Get insights on your LinkedIn profile optimization.
+- ATS Resume Threshold: Set custom thresholds for automatic resume optimization.
+- Resume Upload from submission queue.
+
+✨ Improvements:
+- Fixed onboarding flow: Resume upload now works seamlessly for new users.
+- Enhanced resume display in submission queue.
+- Improved UI/UX across the application.
+- Better performance and stability.
+
+December 30, 2025 (v3.2.0)
 - Optimized company website search for faster and more reliable performance across career pages.
 - Company Career Page Apply: JobHuntr can now apply and submit resumes on any website across the internet, making it the first agent with truly universal job applications.
 - New Starter Plan: Starting at $9.99 for a low-friction way to get started immediately.
