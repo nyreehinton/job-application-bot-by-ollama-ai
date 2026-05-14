@@ -17,17 +17,20 @@
 </p>
 
 Latest Update: February 15, 2026 (v3.2.3)
+
 - LinkedIn Profile Audit: Get insights on your LinkedIn profile optimization.
 - ATS Resume Threshold: Set custom thresholds for automatic resume optimization.
 - Resume Upload from submission queue.
 
 ✨ Improvements:
+
 - Fixed onboarding flow: Resume upload now works seamlessly for new users.
 - Enhanced resume display in submission queue.
 - Improved UI/UX across the application.
 - Better performance and stability.
 
 December 30, 2025 (v3.2.0)
+
 - Optimized company website search for faster and more reliable performance across career pages.
 - Company Career Page Apply: JobHuntr can now apply and submit resumes on any website across the internet, making it the first agent with truly universal job applications.
 - New Starter Plan: Starting at $9.99 for a low-friction way to get started immediately.
@@ -35,20 +38,24 @@ December 30, 2025 (v3.2.0)
 - As always, thank you for trusting us. Hope you are deleting JobHuntr soon
 
 December 8, 2025 (v3.0.0)
+
 - More Robust Infinite Hunt: Improved stability, smoother automation, and better long-run behavior.
 - 4 New Job Boards: Added based on community requests — thank you for the feedback!
 - AI Search on Company Career Sites: You can now search company career pages directly with AI. We might be the first in the market doing this — happy to be challenged :) Previously you needed your own LLM token for this feature; now it's fully covered by us.
 
 December 3, 2025 (v2.8.0)
+
 - D.A.M.N Mode (Done Applying, Market Nonsense): Run JobHuntr in headless mode so your browser won't disturb your workflow — especially useful for Mac users.
 - Community Job Board: See jobs discovered by other JobHuntr users within the last 24 hours, so you always catch the newest postings first.
 
 November 23, 2025 (v2.7.1)
+
 - Introduced Infinite Hunt so your bot scouts fresh roles around the clock.
 - Infinite Hunt can chain multiple agent runs for longer workflows.
 - Infinite Hunt automatically tunes its configuration after every run to surface stronger leads.
 
 November 13, 2025 (v2.5.0)
+
 - Introduced an autonomous agent that enables you to start job searches from any URL, automatically generates customized ATS-optimized resumes, and records applications in the job tracker.
 - Resolved various bugs and enhanced the overall user experience.
 - Added Indeed, ZipRecruiter, Glassdoor, and Dice support to keep your pipeline moving without hopping between tabs
@@ -75,7 +82,6 @@ November 13, 2025 (v2.5.0)
     <strong>Join our Slack Community</strong>
   </a>
 </p>
-
 
 Stepping into a new career can be extremely exhausting, but it doesn't have to be. JobHuntr is built to be a reliable and personalized AI agent, helping you get into the latest opportunities while you focus on what matters most. We put quality first—no BS, no spam.
 
@@ -119,4 +125,4 @@ We need your help to increase the visibility of JobHuntr.fyi and enable more job
 
 We'd love your feedback!
 
-📧 Email: hi@lookr.fyi
+📧 Email: <hi@lookr.fyi>

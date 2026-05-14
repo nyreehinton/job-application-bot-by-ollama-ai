@@ -54,6 +54,7 @@ A: Yes, I am currently employed and seeking a new opportunity. **[CONFIRM — up
 
 **Q: What is your desired salary / compensation?**
 A:
+
 - Full-time staff roles: $80,000–$100,000 annually
 - Part-time / campus roles: $20–$35 per hour
 - Graduate assistantship / RA roles: open to stipend + housing benefit packages
